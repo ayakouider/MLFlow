@@ -13,7 +13,6 @@
 - Root Mean Squared Error (RMSE)
 
 ### Project contents:
-- .venv : virtual environment
 - 3 images in png of model comparison.
 - energy.ipynb: the jupyter notebook with all the code.
 - energy_consumption.docs: project report/explanation.
